@@ -1,0 +1,32 @@
+.checkout {
+  display: flex;
+  padding: 20px;
+  background-color: white;
+  height: max-content;
+}
+.checkout__left {
+  display: flex;
+  flex: 1;
+}
+.checkout__right {
+  margin-top: 36px;
+  /* background-color: rgb(234, 237, 237) !important; */
+}
+.checkout__title {
+  margin-right: 10px;
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+}
+
+/* .checkout__ad {
+  width: 100%;
+  margin-bottom: 20px;
+  height: 200px;
+  object-fit: contain;
+} */
+
+.checkout__banner1 {
+  border: 1px solid #dddddd;
+  width: 350px;
+  margin: 20px;
+}
